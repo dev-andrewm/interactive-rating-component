@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot/desktop_rating_state.jpg)
-![](screenshot/desktop_thankyou_state.jpg)
+![](screenshots/desktop_rating_state.jpg)
+![](screenshots/desktop_thankyou_state.jpg)
 
 ### Links
 
