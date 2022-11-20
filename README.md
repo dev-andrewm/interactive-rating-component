@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshots/desktop_rating_state.jpg)
+![](screenshots/desktop_active_state.jpg)
 ![](screenshots/desktop_thankyou_state.jpg)
 
 ### Links
